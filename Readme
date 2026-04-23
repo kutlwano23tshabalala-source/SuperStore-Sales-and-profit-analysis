@@ -1,29 +1,29 @@
-Sales & Profit Analysis Dashboard (Power BI)
+##Sales & Profit Analysis Dashboard (Power BI)
 
-Overview:
+#Overview:
 As a Junior data anaylst, i have been tasked with analysing the company's financial performance such as revenue and profit. The company have sales data but we do not understand thier profitability so they need insights on revenue, profit, and performance across regions and products.
 
-Business Problem:
+#Business Problem:
 Businesses often use discounts to drive sales, but excessive discounting can reduce profitability. 
 The goal of this analysis was to understandmhow discounts impact profit, identify high-performing regions and categories, and uncover trends over time to support better pricing and sales strategies.
 
-Tools Used:
+#Tools Used:
 - SQL
 - Power BI
 - Excel
 
-Dashboard Preview:
+#Dashboard Preview:
 
 ![Dashboard](salesandprofitanalysis.jpg)
 
-Key Insights:
+#Key Insights:
 Revenue increased steadily from 2014 to 2017, showing consistent business growth
 Profit peaked in 2016 and continued to grow at a slower rate
 The West region generated the highest revenue and profit
 The Technology category outperformed other product categories
 Higher discount levels significantly reduced profitability, with some discounts leading to negative profits
 
-Recommendations:
+#Recommendations:
 Limit high discount levels to protect profit margins
 Invest more in the Technology category due to its strong returns
 Focus on high-performing regions such as the West
